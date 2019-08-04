@@ -16,6 +16,7 @@ public class class3
 		}
 		public int div(int num1,int num2)
 		{   int divd=num1/num2;
+		System.out.println("divison is "+divd);
 			return divd;
 		}
 	public static void main(String[] args)
